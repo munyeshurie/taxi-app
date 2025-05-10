@@ -1,3 +1,3 @@
 # taxi-app
 
-A modern taxi booking application.
+A modern new taxi booking application.
